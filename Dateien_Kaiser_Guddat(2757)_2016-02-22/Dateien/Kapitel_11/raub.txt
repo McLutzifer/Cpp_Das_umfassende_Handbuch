@@ -1,0 +1,22 @@
+Beutestueck  1:     333.33 Euro
+Beutestueck  2:     655.99 Euro
+Beutestueck  3:     387.50 Euro
+Beutestueck  4:    1420.10 Euro
+Beutestueck  5:    4583.17 Euro
+Beutestueck  6:    7500.00 Euro
+Beutestueck  7:     215.12 Euro
+Beutestueck  8:    3230.17 Euro
+Beutestueck  9:     599.00 Euro
+Beutestueck 10:    3775.11 Euro
+Gesamtbeute:      22699.49 Euro
+
+Der Komplize erhaelt:
+
+    Beutestueck  3     387.50 Euro
+    Beutestueck  6    7500.00 Euro
+    Beutestueck  7     215.12 Euro
+    Beutestueck  8    3230.17 Euro
+
+Teilsumme            11332.79 Euro
+
+Abweichung              16.95 Euro
